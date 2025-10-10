@@ -134,15 +134,6 @@ def main():
     import re
     suggested_questions = [re.sub(r'^\d+\.\s*', '', it.get('query')) for it in eval_dataset]
 
-    # Init session state for suggestion rotation
-    if 'suggestion_idx' not in st.session_state:
-        st.session_state.suggestion_idx = 0
-    if 'last_rotate_time' not in st.session_state:
-        st.session_state.last_rotate_time = 0.0
-    if 'auto_rotate' not in st.session_state:
-        st.session_state.auto_rotate = True  # Default to auto-rotate
-    rotate_interval = 5.0  # seconds between rotations
-
     # Data viewers in the main area, above the question box
     st.header("Data viewers")
     if st.checkbox("Show raw eval dataset"):
@@ -152,42 +143,53 @@ def main():
 
     st.title("Legal Research Chatbot")
 
-    # Suggested questions via selectbox
-    def use_question():
-        if st.session_state.get('selected'):
-            st.session_state.query = st.session_state.selected
-
-    selected_suggestion = st.selectbox("Suggested questions (optional)", [""] + suggested_questions[:10], key='selected')
-    st.button("Use selected question", on_click=use_question)
-
-    # Typing box
-    query = st.text_input("Ask a legal question", value=st.session_state.get('query', ''), key='input')
-
     top_n = st.slider("Number of retrieved chunks", min_value=1, max_value=10, value=5)
 
-    if st.button("Search & Answer") and query.strip():
+    # Function to run query automatically
+    def run_query():
+        if st.session_state.get('selected') and st.session_state.selected != "":
+            query = st.session_state.selected
+            with st.spinner("Retrieving relevant chunks..."):
+                retrieved, idxs, scores = retrieve_bm25(bm25, tokenized, docs_texts, query, top_n=top_n)
+
+            # Store results in session state
+            st.session_state.results = {
+                "query": query,
+                "snippets": [(rank, cid, float(s), r[:1500].replace("\n", "  \n")) for rank, (r, idx, s) in enumerate(zip(retrieved, idxs, scores), start=1) for cid in [doc_ids[idx]]],
+                "answer": llm_chain_answer(query, retrieved)
+            }
+
+    # Suggested questions via selectbox - auto-runs on selection
+    selected_suggestion = st.selectbox("Suggested questions (auto-run)", [""] + suggested_questions[:10], key='selected', on_change=run_query)
+
+    # For custom questions
+    st.markdown("---")
+    query_custom = st.text_input("Or ask your own legal question", value="", key='custom')
+
+    if st.button("Search & Answer (custom)") and query_custom.strip():
+        query = query_custom
         with st.spinner("Retrieving relevant chunks..."):
             retrieved, idxs, scores = retrieve_bm25(bm25, tokenized, docs_texts, query, top_n=top_n)
 
-        # show retrieved snippets
-        st.subheader("Retrieved snippets (BM25)")
-        for rank, (r, idx, s) in enumerate(zip(retrieved, idxs, scores), start=1):
-            cid = doc_ids[idx]
-            with st.expander(f"{rank}. Chunk {cid} — score: {float(s):.3f}", expanded=False):
-                # Render snippet inside a light box; replace newlines with markdown line breaks
-                snippet_html = (
-                    "<div style='background:#f8f9fa;border-radius:6px;padding:8px;color:black'>"
-                    + r[:1500].replace("\n", "  \n")
-                    + "</div>"
-                )
+        # Store results in session state
+        st.session_state.results = {
+            "query": query,
+            "snippets": [(rank, cid, float(s), r[:1500].replace("\n", "  \n")) for rank, (r, idx, s) in enumerate(zip(retrieved, idxs, scores), start=1) for cid in [doc_ids[idx]]],
+            "answer": llm_chain_answer(query, retrieved)
+        }
+
+    # Display results at the bottom
+    if st.session_state.get('results'):
+        results = st.session_state.results
+        st.subheader(f"Results for: {results['query']}")
+        st.markdown("**Retrieved snippets (BM25)**")
+        for rank, cid, score, text in results["snippets"]:
+            with st.expander(f"{rank}. Chunk {cid} — score: {score:.3f}", expanded=False):
+                snippet_html = f"<div style='background:#f8f9fa;border-radius:6px;padding:8px;color:black'>{text}</div>"
                 st.markdown(snippet_html, unsafe_allow_html=True)
 
-        # Compose answer using LLM or fallback
-        with st.spinner("Composing answer with RAG..."):
-            answer = llm_chain_answer(query, retrieved)
-
-        st.subheader("Answer (rendered from markdown)")
-        st.markdown(answer)
+        st.markdown("**Answer (rendered from markdown)**")
+        st.markdown(results["answer"])
 
 
 if __name__ == "__main__":
