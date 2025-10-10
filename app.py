@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 import nltk
 
 # Ensure necessary tokenizer resources are downloaded
-nltk.download('punkt')
-nltk.download('punkt_tab')
+# nltk.download('punkt')
+# nltk.download('punkt_tab')
 
 # Load environment variables from .env if present
 load_dotenv()
@@ -153,10 +153,12 @@ def main():
     st.title("Legal Research Chatbot")
 
     # Suggested questions via selectbox
-    selected_suggestion = st.selectbox("Suggested questions (optional)", [""] + suggested_questions[:10])
-    if st.button("Use selected question") and selected_suggestion:
-        st.session_state.query = selected_suggestion
-        st.rerun()  # Optional, to update immediately
+    def use_question():
+        if st.session_state.get('selected'):
+            st.session_state.query = st.session_state.selected
+
+    selected_suggestion = st.selectbox("Suggested questions (optional)", [""] + suggested_questions[:10], key='selected')
+    st.button("Use selected question", on_click=use_question)
 
     # Typing box
     query = st.text_input("Ask a legal question", value=st.session_state.get('query', ''), key='input')
