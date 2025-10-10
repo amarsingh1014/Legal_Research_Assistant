@@ -36,6 +36,4 @@ Notes:
 import nltk
 nltk.download('punkt')
 ```
-
-- If OpenAI is not configured, the app falls back to returning concatenated retrieved excerpts and a simple placeholder answer.
 # Legal_Research_Assistant
