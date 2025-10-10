@@ -153,9 +153,10 @@ def main():
     st.title("Legal Research Chatbot")
 
     # Suggested questions via selectbox
-    selected_suggestion = st.selectbox("Suggested questions (optional)", [""] + suggested_questions[:10])  # Show top 10
-    if selected_suggestion:
+    selected_suggestion = st.selectbox("Suggested questions (optional)", [""] + suggested_questions[:10])
+    if st.button("Use selected question") and selected_suggestion:
         st.session_state.query = selected_suggestion
+        st.rerun()  # Optional, to update immediately
 
     # Typing box
     query = st.text_input("Ask a legal question", value=st.session_state.get('query', ''), key='input')
@@ -173,7 +174,7 @@ def main():
             with st.expander(f"{rank}. Chunk {cid} — score: {float(s):.3f}", expanded=False):
                 # Render snippet inside a light box; replace newlines with markdown line breaks
                 snippet_html = (
-                    "<div style='background:#f8f9fa;border-radius:6px;padding:8px'>"
+                    "<div style='background:#f8f9fa;border-radius:6px;padding:8px;color:black'>"
                     + r[:1500].replace("\n", "  \n")
                     + "</div>"
                 )
