@@ -75,6 +75,9 @@ streamlit run app.py
 import nltk
 nltk.download('punkt')
 ```
+<<<<<<< HEAD
 
 - If Groq is not configured, the app falls back to returning concatenated retrieved excerpts and a simple placeholder answer.
+=======
+>>>>>>> c17aed09f4182a04324fd5ab3c08b1b1afa1932b
 # Legal_Research_Assistant
