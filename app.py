@@ -8,6 +8,12 @@ from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 from dotenv import load_dotenv
 
+import nltk
+
+# Ensure necessary tokenizer resources are downloaded
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 # Load environment variables from .env if present
 load_dotenv()
 
