@@ -1,0 +1,968 @@
+[
+  {
+    "query": "1. What are the rules governing a lawyer's obligation to notify clients of their right to participate in the Attorney-Client Fee Arbitration Program in New York?",
+    "relevant_chunk_ids": [
+      "chunk_0"
+    ],
+    "source_preview": "BOARD OF GOVERNORS  New York State Unified Court System Office of Court Administration Office of ADR Programs January 8, 2018 These case summaries are provided for informational purposes only and for the convenience of th ose interested in learning more about the Attorney-Client Fee Arbitration Program. The summaries should not be construed as an endorsement of any particular case by the Board of Governors or the Office of Court Administration, and do not constitute legal advice or counsel.  1 T"
+  },
+  {
+    "query": "2. Under what circumstances can an attorney's pleading requirement be waived or modified according to Part 137 and 137.6(b) in New York's Attorney-Client Fee Arbitration Program?",
+    "relevant_chunk_ids": [
+      "chunk_0"
+    ],
+    "source_preview": "BOARD OF GOVERNORS  New York State Unified Court System Office of Court Administration Office of ADR Programs January 8, 2018 These case summaries are provided for informational purposes only and for the convenience of th ose interested in learning more about the Attorney-Client Fee Arbitration Program. The summaries should not be construed as an endorsement of any particular case by the Board of Governors or the Office of Court Administration, and do not constitute legal advice or counsel.  1 T"
+  },
+  {
+    "query": "3. In the context of post-award procedures, what are the grounds for challenging a fee arbitration award in New York, and how does CPLR Article 75 come into play?",
+    "relevant_chunk_ids": [
+      "chunk_0"
+    ],
+    "source_preview": "BOARD OF GOVERNORS  New York State Unified Court System Office of Court Administration Office of ADR Programs January 8, 2018 These case summaries are provided for informational purposes only and for the convenience of th ose interested in learning more about the Attorney-Client Fee Arbitration Program. The summaries should not be construed as an endorsement of any particular case by the Board of Governors or the Office of Court Administration, and do not constitute legal advice or counsel.  1 T"
+  },
+  {
+    "query": "1. What are the requirements for an attorney seeking to recover fees and disbursements in actions related to the enforcement of divorce judgements under Part 136, as established in Herrick v. Lyon?",
+    "relevant_chunk_ids": [
+      "chunk_1"
+    ],
+    "source_preview": "Herrick v. Lyon 7 A.D. 3d 571, 777 N.Y.S.2d 141 (App. Div. Second Dept. 2004). Plaintiff attorney commenced an action in Supreme Court to recover fees and disbursements for his representation of defendant client involving the enforcement of provisions of a divorce judgement. Defendant client moved to dismiss on the ground that plaintiff attorney failed to provide her notice of her right to arbitrate pursuant to 22 NYCRR 136.5(a). The Supreme Court denied the motion and client appealed. The Appel"
+  },
+  {
+    "query": "2. In fee disputes covered by Part 137, what factors must be considered when determining whether an outgoing attorney is entitled to a fee after being discharged (allegedly for cause) and asserting a retaining lien?",
+    "relevant_chunk_ids": [
+      "chunk_1"
+    ],
+    "source_preview": "Herrick v. Lyon 7 A.D. 3d 571, 777 N.Y.S.2d 141 (App. Div. Second Dept. 2004). Plaintiff attorney commenced an action in Supreme Court to recover fees and disbursements for his representation of defendant client involving the enforcement of provisions of a divorce judgement. Defendant client moved to dismiss on the ground that plaintiff attorney failed to provide her notice of her right to arbitrate pursuant to 22 NYCRR 136.5(a). The Supreme Court denied the motion and client appealed. The Appel"
+  },
+  {
+    "query": "3. What are the consequences for an attorney who fails to provide notice of a client's right to arbitrate under Part 136, as discussed in Scordio v. Scordio, Paikin v. Tsirelman, and Rotker v. Rotker?",
+    "relevant_chunk_ids": [
+      "chunk_1"
+    ],
+    "source_preview": "Herrick v. Lyon 7 A.D. 3d 571, 777 N.Y.S.2d 141 (App. Div. Second Dept. 2004). Plaintiff attorney commenced an action in Supreme Court to recover fees and disbursements for his representation of defendant client involving the enforcement of provisions of a divorce judgement. Defendant client moved to dismiss on the ground that plaintiff attorney failed to provide her notice of her right to arbitrate pursuant to 22 NYCRR 136.5(a). The Supreme Court denied the motion and client appealed. The Appel"
+  },
+  {
+    "query": "1. What are the rules regarding an attorney's obligation to provide a client with notice of the right to arbitrate fee disputes in matrimonial cases, and what happens if this obligation is not met?",
+    "relevant_chunk_ids": [
+      "chunk_2"
+    ],
+    "source_preview": "Rotker v. Rotker, 195 Misc.2d 768,777, 761 N.Y.S.2d 787 (Sup.Ct., Westchester County 2003). By sending a notice of the right to arbitrate, counsel had triggered the client\u2019s right to elect arbitration and could not thereafter refuse to submit the fee dispute to arbitration, despite the fact that the request was submitted after the 30-day statutory period had expired. Williams v Foubister , 176 Misc.2d 702, 673 NYS2d 840 (Monroe Co. Ct. 1998). Attorney sued in City Court while fee dispute was pen"
+  },
+  {
+    "query": "2. Can an attorney rely on the principle of an account stated as a basis for summary judgment in a fee dispute case, and under what circumstances would a court consider an account stated to be implied?",
+    "relevant_chunk_ids": [
+      "chunk_2"
+    ],
+    "source_preview": "Rotker v. Rotker, 195 Misc.2d 768,777, 761 N.Y.S.2d 787 (Sup.Ct., Westchester County 2003). By sending a notice of the right to arbitrate, counsel had triggered the client\u2019s right to elect arbitration and could not thereafter refuse to submit the fee dispute to arbitration, despite the fact that the request was submitted after the 30-day statutory period had expired. Williams v Foubister , 176 Misc.2d 702, 673 NYS2d 840 (Monroe Co. Ct. 1998). Attorney sued in City Court while fee dispute was pen"
+  },
+  {
+    "query": "3. In a situation where a fee dispute is pending in an arbitration program, can an attorney file a separate action in City Court challenging the constitutionality of the fee dispute program on grounds such as equal protection and right to jury trial? If so, what are the potential outcomes for such actions?",
+    "relevant_chunk_ids": [
+      "chunk_2"
+    ],
+    "source_preview": "Rotker v. Rotker, 195 Misc.2d 768,777, 761 N.Y.S.2d 787 (Sup.Ct., Westchester County 2003). By sending a notice of the right to arbitrate, counsel had triggered the client\u2019s right to elect arbitration and could not thereafter refuse to submit the fee dispute to arbitration, despite the fact that the request was submitted after the 30-day statutory period had expired. Williams v Foubister , 176 Misc.2d 702, 673 NYS2d 840 (Monroe Co. Ct. 1998). Attorney sued in City Court while fee dispute was pen"
+  },
+  {
+    "query": "1. What are the requirements for an attorney to provide notice of a client's right to arbitrate under Part 137 in New York?",
+    "relevant_chunk_ids": [
+      "chunk_3"
+    ],
+    "source_preview": "Gottlieb v. Marusya , 2004 NY Slip Op 51816U; 6 Misc. 3d 1023A; 800 N.Y.S.2d 346; 2004 N.Y. Misc. LEXIS 2988; 233 N.Y.L.J. 6, (Civil Court New York 2004). Attorney was not required to provide notice to client of the right to arbitrate because representation began in December 2001, prior to the effective date of Part 137. Attorney met w/ client in Dec. 2001 and opened client's file in Dec. 2001. Retainer was sent to client in Dec. 2001. Client did not sign letter or send retainer check to attorne"
+  },
+  {
+    "query": "2. How should retainer agreements be construed in relation to matrimonial rules governing retainers, fee disputes, and arbitration in New York?",
+    "relevant_chunk_ids": [
+      "chunk_3"
+    ],
+    "source_preview": "Gottlieb v. Marusya , 2004 NY Slip Op 51816U; 6 Misc. 3d 1023A; 800 N.Y.S.2d 346; 2004 N.Y. Misc. LEXIS 2988; 233 N.Y.L.J. 6, (Civil Court New York 2004). Attorney was not required to provide notice to client of the right to arbitrate because representation began in December 2001, prior to the effective date of Part 137. Attorney met w/ client in Dec. 2001 and opened client's file in Dec. 2001. Retainer was sent to client in Dec. 2001. Client did not sign letter or send retainer check to attorne"
+  },
+  {
+    "query": "3. In cases involving multiple matters, how is the amount in dispute calculated for purposes of determining if Part 136 applies in New York?",
+    "relevant_chunk_ids": [
+      "chunk_3"
+    ],
+    "source_preview": "Gottlieb v. Marusya , 2004 NY Slip Op 51816U; 6 Misc. 3d 1023A; 800 N.Y.S.2d 346; 2004 N.Y. Misc. LEXIS 2988; 233 N.Y.L.J. 6, (Civil Court New York 2004). Attorney was not required to provide notice to client of the right to arbitrate because representation began in December 2001, prior to the effective date of Part 137. Attorney met w/ client in Dec. 2001 and opened client's file in Dec. 2001. Retainer was sent to client in Dec. 2001. Client did not sign letter or send retainer check to attorne"
+  },
+  {
+    "query": "1. What are the circumstances under which a court will view multiple fee disputes in aggregate, and how does this impact the applicability of New York's Part 137?",
+    "relevant_chunk_ids": [
+      "chunk_4"
+    ],
+    "source_preview": "Sieratzki v. Sei Global, 2009 WL 4009128, 2009 NY Slip Op 32656(U), (Sup. Ct. NY 2009). Where attorney represented client on four separate claims and fees were disputed in each claim, the court viewed the amount in dispute in the aggregate. Attorney was hired to represent client as corporate and securities counsel. All claims have a matter of fact in common. As such the amount in dispute was greater than 50K and Part 137 did not apply. Furthermore, the attorney properly plead the exception to th"
+  },
+  {
+    "query": "2. In cases where an attorney represents a client in a criminal matter, is it possible for the client to invoke the right to arbitration as provided by Part 137? If not, what are the specific reasons that prevent this invocation?",
+    "relevant_chunk_ids": [
+      "chunk_4"
+    ],
+    "source_preview": "Sieratzki v. Sei Global, 2009 WL 4009128, 2009 NY Slip Op 32656(U), (Sup. Ct. NY 2009). Where attorney represented client on four separate claims and fees were disputed in each claim, the court viewed the amount in dispute in the aggregate. Attorney was hired to represent client as corporate and securities counsel. All claims have a matter of fact in common. As such the amount in dispute was greater than 50K and Part 137 did not apply. Furthermore, the attorney properly plead the exception to th"
+  },
+  {
+    "query": "3. When is it deemed a violation of public policy or against the purpose of New York's Part 137 for an attorney to avoid compliance with its requirements by stating that the client will allege malpractice? Under what circumstances would it be appropriate for the \"Local Administrative Body\" to determine if malpractice is inextricably intertwined with a client's claim for payment?",
+    "relevant_chunk_ids": [
+      "chunk_4"
+    ],
+    "source_preview": "Sieratzki v. Sei Global, 2009 WL 4009128, 2009 NY Slip Op 32656(U), (Sup. Ct. NY 2009). Where attorney represented client on four separate claims and fees were disputed in each claim, the court viewed the amount in dispute in the aggregate. Attorney was hired to represent client as corporate and securities counsel. All claims have a matter of fact in common. As such the amount in dispute was greater than 50K and Part 137 did not apply. Furthermore, the attorney properly plead the exception to th"
+  },
+  {
+    "query": "1. What are the requirements for an attorney to notify their client of the right to arbitrate fees in a Mental Hygiene Law article 81 proceeding?",
+    "relevant_chunk_ids": [
+      "chunk_5"
+    ],
+    "source_preview": "Williams v. Jacqueline Jackson , 2005 NY Slip Op 25496; 10 Misc. 3d 58; 809 N.Y.S.2d 771; 2005 N.Y. Misc. LEXIS (App. Term. 2d Dept. 2005).  9 Attorney\u2019s claim for fees in a Mental Hygiene Law article 81 proceeding was dismissed due to attorney\u2019s failure to notify client of right to arbitrate. Supreme Court decision barred an award of any further attorney's fees from the estate of alleged incapacitated person. However, there was no provision in the decision that limited plaintiff's fee to the am"
+  },
+  {
+    "query": "2. In a proceeding pursuant to SCPA 2110, what is the Surrogate's responsibility regarding deciding a reasonable legal fee and how does this impact the existence of a retainer agreement or party consent?",
+    "relevant_chunk_ids": [
+      "chunk_5"
+    ],
+    "source_preview": "Williams v. Jacqueline Jackson , 2005 NY Slip Op 25496; 10 Misc. 3d 58; 809 N.Y.S.2d 771; 2005 N.Y. Misc. LEXIS (App. Term. 2d Dept. 2005).  9 Attorney\u2019s claim for fees in a Mental Hygiene Law article 81 proceeding was dismissed due to attorney\u2019s failure to notify client of right to arbitrate. Supreme Court decision barred an award of any further attorney's fees from the estate of alleged incapacitated person. However, there was no provision in the decision that limited plaintiff's fee to the am"
+  },
+  {
+    "query": "3. Under Part 137, which disputes are considered substantial legal questions and how should an attorney plead these exceptions when defending against a termination letter for cause and malpractice?",
+    "relevant_chunk_ids": [
+      "chunk_5"
+    ],
+    "source_preview": "Williams v. Jacqueline Jackson , 2005 NY Slip Op 25496; 10 Misc. 3d 58; 809 N.Y.S.2d 771; 2005 N.Y. Misc. LEXIS (App. Term. 2d Dept. 2005).  9 Attorney\u2019s claim for fees in a Mental Hygiene Law article 81 proceeding was dismissed due to attorney\u2019s failure to notify client of right to arbitrate. Supreme Court decision barred an award of any further attorney's fees from the estate of alleged incapacitated person. However, there was no provision in the decision that limited plaintiff's fee to the am"
+  },
+  {
+    "query": "1. What are the requirements for a New York attorney seeking to recover fees from clients in a New York court, regarding the pleading of an exception to the New York State Fee Dispute Resolution Program?",
+    "relevant_chunk_ids": [
+      "chunk_6"
+    ],
+    "source_preview": "LLC v. CBC Capital Ventures, Inc 2008 NY Slip Op 50126(U); 2008 WL 183722 (Sup. Ct. Nassau County 2008). \u201c\u2026[A] New York attorney suing New York residents in New York for a fee must at least plead an exception to the New York State Fee Dispute Resolution Program and by not doing so incurs dismissal.\u201d Kerner v. Dunham 2007 NY Slip Op 9946; 46 A.D.3d 372; 848 N.Y.S.2d 617 (App. Div. 1st Dept. 2007). Plaintiff law firm instituted action in court to recover legal fees but failed to allege in the comp"
+  },
+  {
+    "query": "2. In cases where a fee dispute falls outside the monetary jurisdiction of Part 137, what specific allegations must be made by the plaintiff attorney in the complaint to avoid dismissal?",
+    "relevant_chunk_ids": [
+      "chunk_6"
+    ],
+    "source_preview": "LLC v. CBC Capital Ventures, Inc 2008 NY Slip Op 50126(U); 2008 WL 183722 (Sup. Ct. Nassau County 2008). \u201c\u2026[A] New York attorney suing New York residents in New York for a fee must at least plead an exception to the New York State Fee Dispute Resolution Program and by not doing so incurs dismissal.\u201d Kerner v. Dunham 2007 NY Slip Op 9946; 46 A.D.3d 372; 848 N.Y.S.2d 617 (App. Div. 1st Dept. 2007). Plaintiff law firm instituted action in court to recover legal fees but failed to allege in the comp"
+  },
+  {
+    "query": "3. If a fee dispute is found to fall outside the scope of Part 137, but the plaintiff attorney fails to allege as such in the complaint, what legal consequence does this omission have on the case?",
+    "relevant_chunk_ids": [
+      "chunk_6"
+    ],
+    "source_preview": "LLC v. CBC Capital Ventures, Inc 2008 NY Slip Op 50126(U); 2008 WL 183722 (Sup. Ct. Nassau County 2008). \u201c\u2026[A] New York attorney suing New York residents in New York for a fee must at least plead an exception to the New York State Fee Dispute Resolution Program and by not doing so incurs dismissal.\u201d Kerner v. Dunham 2007 NY Slip Op 9946; 46 A.D.3d 372; 848 N.Y.S.2d 617 (App. Div. 1st Dept. 2007). Plaintiff law firm instituted action in court to recover legal fees but failed to allege in the comp"
+  },
+  {
+    "query": "1. What are the rules that a matrimonial lawyer must follow in New York regarding filing and compliance to be eligible for fee recovery?",
+    "relevant_chunk_ids": [
+      "chunk_7"
+    ],
+    "source_preview": "PC v. Finkelstein , NYLJ January 25, 2006, at 19 (NY County Supreme Court). The court denied law firm\u2019s application for reargument because firm had not argued that the dispute fell outside of the Part 137 Program on their prior motion as is required by CPLR 2221(d) 2. The law firm participated in the underlying arbitration and even argued that the client had not properly followed the procedures required by Part 137. \u201cReargument is not available where the movant seeks only to argue a new theory o"
+  },
+  {
+    "query": "2. Can a law firm apply for reargument if they failed to argue that the dispute falls outside of the Part 137 Program on their prior motion as required by CPLR 2221(d)?",
+    "relevant_chunk_ids": [
+      "chunk_7"
+    ],
+    "source_preview": "PC v. Finkelstein , NYLJ January 25, 2006, at 19 (NY County Supreme Court). The court denied law firm\u2019s application for reargument because firm had not argued that the dispute fell outside of the Part 137 Program on their prior motion as is required by CPLR 2221(d) 2. The law firm participated in the underlying arbitration and even argued that the client had not properly followed the procedures required by Part 137. \u201cReargument is not available where the movant seeks only to argue a new theory o"
+  },
+  {
+    "query": "3. In the context of fee disputes, what is the legal principle regarding substantial compliance and how does it apply to attorneys in New York?",
+    "relevant_chunk_ids": [
+      "chunk_7"
+    ],
+    "source_preview": "PC v. Finkelstein , NYLJ January 25, 2006, at 19 (NY County Supreme Court). The court denied law firm\u2019s application for reargument because firm had not argued that the dispute fell outside of the Part 137 Program on their prior motion as is required by CPLR 2221(d) 2. The law firm participated in the underlying arbitration and even argued that the client had not properly followed the procedures required by Part 137. \u201cReargument is not available where the movant seeks only to argue a new theory o"
+  },
+  {
+    "query": "1. What are the specific requirements outlined in 22 NYCRR 1400.3 that an attorney must comply with in order to recover legal fees in matrimonial cases in New York?",
+    "relevant_chunk_ids": [
+      "chunk_8"
+    ],
+    "source_preview": "Gahagan v. Gahagan, 51 A.D.3d 863 (N.Y. App. Div. 2d Dep't 2008); Attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.3, requiring attorney to execute and file a retainer agreement that sets forth, inter alia, the terms of compensation and the nature of the services to be rendered. Additionally, an attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.2, requiring the attorney to provide written, itemized"
+  },
+  {
+    "query": "2. Can an attorney recover legal fees if there is substantial, but not complete, compliance with the rules regarding retainer agreements in matrimonial cases as outlined in 22 NYCRR 1400.3?",
+    "relevant_chunk_ids": [
+      "chunk_8"
+    ],
+    "source_preview": "Gahagan v. Gahagan, 51 A.D.3d 863 (N.Y. App. Div. 2d Dep't 2008); Attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.3, requiring attorney to execute and file a retainer agreement that sets forth, inter alia, the terms of compensation and the nature of the services to be rendered. Additionally, an attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.2, requiring the attorney to provide written, itemized"
+  },
+  {
+    "query": "3. In a matrimonial fee arbitration case, what factors does an arbitrator consider when determining an appropriate reduction of attorney's fees due to partial noncompliance with the rules outlined in 22 NYCRR Part 1400?",
+    "relevant_chunk_ids": [
+      "chunk_8"
+    ],
+    "source_preview": "Gahagan v. Gahagan, 51 A.D.3d 863 (N.Y. App. Div. 2d Dep't 2008); Attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.3, requiring attorney to execute and file a retainer agreement that sets forth, inter alia, the terms of compensation and the nature of the services to be rendered. Additionally, an attorney is precluded from recovering legal fees where he or she did not comply with 22 NYCRR 1400.2, requiring the attorney to provide written, itemized"
+  },
+  {
+    "query": "1. What are the specific rules that attorneys in New York must comply with regarding providing clients with a written retainer, statement of client's rights and responsibilities, and timely itemized bills in matrimonial cases?",
+    "relevant_chunk_ids": [
+      "chunk_9"
+    ],
+    "source_preview": "Plant v. Channing , 299 A.D.2d 696, 698 (N.Y. App. Div. 3d Dep't 2002). Upheld a fee arbitration award finding that the attorney was not entitled to any fees based on several violations of the matrimonial rules, including failure to provide a written retainer, failure to provide a statement of client\u2019s rights and responsibilities and failure to provide timely itemized bills. Hunt v. Hunt , 273 A.D.2d 875, 876 (N.Y. App. Div. 4th Dep't 2000). Attorney was precluded from recovering fees where he f"
+  },
+  {
+    "query": "2. Under what circumstances can an arbitrator in New York deviate from strict compliance with the rules related to attorney-client fee agreements in matrimonial cases, according to Edelstein v. Greisman case?",
+    "relevant_chunk_ids": [
+      "chunk_9"
+    ],
+    "source_preview": "Plant v. Channing , 299 A.D.2d 696, 698 (N.Y. App. Div. 3d Dep't 2002). Upheld a fee arbitration award finding that the attorney was not entitled to any fees based on several violations of the matrimonial rules, including failure to provide a written retainer, failure to provide a statement of client\u2019s rights and responsibilities and failure to provide timely itemized bills. Hunt v. Hunt , 273 A.D.2d 875, 876 (N.Y. App. Div. 4th Dep't 2000). Attorney was precluded from recovering fees where he f"
+  },
+  {
+    "query": "3. In a case challenging the confirmation of a fee arbitration award, what evidence might be sufficient for a court to find that an attorney has substantially complied with the rules and is entitled to his fee, as demonstrated in 15 aff\u2019d and Edelstein v. Greisman cases?",
+    "relevant_chunk_ids": [
+      "chunk_9"
+    ],
+    "source_preview": "Plant v. Channing , 299 A.D.2d 696, 698 (N.Y. App. Div. 3d Dep't 2002). Upheld a fee arbitration award finding that the attorney was not entitled to any fees based on several violations of the matrimonial rules, including failure to provide a written retainer, failure to provide a statement of client\u2019s rights and responsibilities and failure to provide timely itemized bills. Hunt v. Hunt , 273 A.D.2d 875, 876 (N.Y. App. Div. 4th Dep't 2000). Attorney was precluded from recovering fees where he f"
+  },
+  {
+    "query": "1. What are the legal requirements for a lawyer to recover fees after an arbitration proceeding in New York, considering cases such as Jones v. Wright and Gamaliel v Papadopoulos-Vlantes?",
+    "relevant_chunk_ids": [
+      "chunk_10"
+    ],
+    "source_preview": "Jones v. Wright , 2007 NY Slip Op 51494U; 16 Misc. 3d 133A; 2007 N.Y. Misc. LEXIS 5381 (Appellate Term, 2d Dept. 2007). Citing Rubenstein, court ordered a new trial where court below found that defendant was barred from retaining any legal fees due to lack of letter of engagement. Court found that a new trial was necessary to make a quantum meruit determination to establish the value of legal services rendered. Ziskin v. Bi-County Electric Corp ., 2007 WL 2782021 (App. Div. 2d Dept 2007). Where "
+  },
+  {
+    "query": "2. Under what circumstances can a lawyer be barred from retaining legal fees due to lack of a letter of engagement, according to the case Rubenstein?",
+    "relevant_chunk_ids": [
+      "chunk_10"
+    ],
+    "source_preview": "Jones v. Wright , 2007 NY Slip Op 51494U; 16 Misc. 3d 133A; 2007 N.Y. Misc. LEXIS 5381 (Appellate Term, 2d Dept. 2007). Citing Rubenstein, court ordered a new trial where court below found that defendant was barred from retaining any legal fees due to lack of letter of engagement. Court found that a new trial was necessary to make a quantum meruit determination to establish the value of legal services rendered. Ziskin v. Bi-County Electric Corp ., 2007 WL 2782021 (App. Div. 2d Dept 2007). Where "
+  },
+  {
+    "query": "3. In situations where a client and a lawyer had previously participated in arbitration, is it necessary for the client to agree with the award before it becomes enforceable, considering the case Gamaliel v Papadopoulos-Vlantes?",
+    "relevant_chunk_ids": [
+      "chunk_10"
+    ],
+    "source_preview": "Jones v. Wright , 2007 NY Slip Op 51494U; 16 Misc. 3d 133A; 2007 N.Y. Misc. LEXIS 5381 (Appellate Term, 2d Dept. 2007). Citing Rubenstein, court ordered a new trial where court below found that defendant was barred from retaining any legal fees due to lack of letter of engagement. Court found that a new trial was necessary to make a quantum meruit determination to establish the value of legal services rendered. Ziskin v. Bi-County Electric Corp ., 2007 WL 2782021 (App. Div. 2d Dept 2007). Where "
+  },
+  {
+    "query": "1. What are the specific rules regarding the filing of a trial de novo in Part 137 arbitrations, and under what circumstances can a court exercise discretion to excuse a late filing? (Stodolski v. Wisselman)",
+    "relevant_chunk_ids": [
+      "chunk_11"
+    ],
+    "source_preview": "The court treated the client\u2019s action as de novo review of the award and dismissed the attorney\u2019s counterclaim. Finn v. Zinn 130 A.D.3d 870 (2015), 2015 NY Slip Op. 06212, 2015 WL 4460670 (App. Div. Second Dept. July 22, 2015).  17 Attorney appealed order of the trial court that granted client\u2019s motion to dismiss attorney\u2019s complaint. At the trial court, attorney commenced a trial de novo seeking a judgment declaring the Part 137 arbitration award invalid and void as time-barred for lack of subj"
+  },
+  {
+    "query": "2. In cases where a client seeks a declaration that a Part 137 arbitration award is invalid or void, what are the necessary allegations concerning the merits of the underlying fee dispute that must be included in the complaint? (Matter of Gold, Stewart, Kravitz, Benes, LLP)",
+    "relevant_chunk_ids": [
+      "chunk_11"
+    ],
+    "source_preview": "The court treated the client\u2019s action as de novo review of the award and dismissed the attorney\u2019s counterclaim. Finn v. Zinn 130 A.D.3d 870 (2015), 2015 NY Slip Op. 06212, 2015 WL 4460670 (App. Div. Second Dept. July 22, 2015).  17 Attorney appealed order of the trial court that granted client\u2019s motion to dismiss attorney\u2019s complaint. At the trial court, attorney commenced a trial de novo seeking a judgment declaring the Part 137 arbitration award invalid and void as time-barred for lack of subj"
+  },
+  {
+    "query": "3. What jurisdictional limitations apply to actions for declaratory relief from a Part 137 arbitration award, and has this changed following any recent amendments or court decisions? (DeFilippo v. Gerbino)",
+    "relevant_chunk_ids": [
+      "chunk_11"
+    ],
+    "source_preview": "The court treated the client\u2019s action as de novo review of the award and dismissed the attorney\u2019s counterclaim. Finn v. Zinn 130 A.D.3d 870 (2015), 2015 NY Slip Op. 06212, 2015 WL 4460670 (App. Div. Second Dept. July 22, 2015).  17 Attorney appealed order of the trial court that granted client\u2019s motion to dismiss attorney\u2019s complaint. At the trial court, attorney commenced a trial de novo seeking a judgment declaring the Part 137 arbitration award invalid and void as time-barred for lack of subj"
+  },
+  {
+    "query": "1. What are the specific requirements for a party to initiate de novo judicial review following a Part 137 arbitration decision, as outlined in Borgus v. Marianetti?",
+    "relevant_chunk_ids": [
+      "chunk_12"
+    ],
+    "source_preview": "Borgus v. Marianetti , 7 Misc.3d 1003(A), 801 N.Y.S.2d 230 (Rochester City Ct. 2005) (Unpublished). The City Court Judge held that it is not jurisdictionally fatal for a party who is aggrieved by a Part 137 arbitration decision to initiate de novo judicial review merely by filing a document  18 titled, \"Demand for a Trial De Novo,\" even where neither party files a Summons, a Complaint, an Answer, a Note of Issue, or a Mahl v. Rand , 11 Misc.3d 1072(A), 2006 N.Y. Slip Op. 50518(U) (N.Y.C. Civ. Ct"
+  },
+  {
+    "query": "2. In the context of a fee dispute, what constitutes the commencement of an action on the merits in a court of competent jurisdiction within the meaning of 137.8(a), according to Pruzan v. Levine?",
+    "relevant_chunk_ids": [
+      "chunk_12"
+    ],
+    "source_preview": "Borgus v. Marianetti , 7 Misc.3d 1003(A), 801 N.Y.S.2d 230 (Rochester City Ct. 2005) (Unpublished). The City Court Judge held that it is not jurisdictionally fatal for a party who is aggrieved by a Part 137 arbitration decision to initiate de novo judicial review merely by filing a document  18 titled, \"Demand for a Trial De Novo,\" even where neither party files a Summons, a Complaint, an Answer, a Note of Issue, or a Mahl v. Rand , 11 Misc.3d 1072(A), 2006 N.Y. Slip Op. 50518(U) (N.Y.C. Civ. Ct"
+  },
+  {
+    "query": "3. Can a party seek to set aside an arbitrator's award after the 30-day period following receipt of the award, and under what circumstances might this be granted, as per Pruzan v. Levine and related cases?",
+    "relevant_chunk_ids": [
+      "chunk_12"
+    ],
+    "source_preview": "Borgus v. Marianetti , 7 Misc.3d 1003(A), 801 N.Y.S.2d 230 (Rochester City Ct. 2005) (Unpublished). The City Court Judge held that it is not jurisdictionally fatal for a party who is aggrieved by a Part 137 arbitration decision to initiate de novo judicial review merely by filing a document  18 titled, \"Demand for a Trial De Novo,\" even where neither party files a Summons, a Complaint, an Answer, a Note of Issue, or a Mahl v. Rand , 11 Misc.3d 1072(A), 2006 N.Y. Slip Op. 50518(U) (N.Y.C. Civ. Ct"
+  },
+  {
+    "query": "1. What are the legal requirements for a de novo review of an arbitration award in New York, and under what circumstances can a court treat an action for declaratory relief as a request for such review?",
+    "relevant_chunk_ids": [
+      "chunk_13"
+    ],
+    "source_preview": "Tray v. Thaler , 2007 NY Slip Op 27391; 842 N.Y.S.2d 713; 2007 N.Y. Misc. LEXIS 6545 (District Ct., Nassau County 2007). District Court lacked jurisdiction to grant de novo review of arbitration award where plaintiff commenced an action for declaratory relief rather than an action for a money judgment. Plaintiff/ Client, dissatisfied with arbitrator\u2019s award in favor of attorney, commenced an action for de novo review of the award in District Court. Plaintiff asked the court for a \u201cdecision decla"
+  },
+  {
+    "query": "2. In New York, what is the admissibility status of an arbitration award during a trial de novo, and how should invoices be presented to support an attorney's claim for fees in this context?",
+    "relevant_chunk_ids": [
+      "chunk_13"
+    ],
+    "source_preview": "Tray v. Thaler , 2007 NY Slip Op 27391; 842 N.Y.S.2d 713; 2007 N.Y. Misc. LEXIS 6545 (District Ct., Nassau County 2007). District Court lacked jurisdiction to grant de novo review of arbitration award where plaintiff commenced an action for declaratory relief rather than an action for a money judgment. Plaintiff/ Client, dissatisfied with arbitrator\u2019s award in favor of attorney, commenced an action for de novo review of the award in District Court. Plaintiff asked the court for a \u201cdecision decla"
+  },
+  {
+    "query": "3. What are the grounds for vacating an arbitration award under CPLR 7511 in New York, and when is the time period for seeking de novo review absolute and not subject to judicial discretion?",
+    "relevant_chunk_ids": [
+      "chunk_13"
+    ],
+    "source_preview": "Tray v. Thaler , 2007 NY Slip Op 27391; 842 N.Y.S.2d 713; 2007 N.Y. Misc. LEXIS 6545 (District Ct., Nassau County 2007). District Court lacked jurisdiction to grant de novo review of arbitration award where plaintiff commenced an action for declaratory relief rather than an action for a money judgment. Plaintiff/ Client, dissatisfied with arbitrator\u2019s award in favor of attorney, commenced an action for de novo review of the award in District Court. Plaintiff asked the court for a \u201cdecision decla"
+  },
+  {
+    "query": "1. What are the rules and criteria for vacating a default judgment in a fee arbitration case under Part 137, considering the factors that may be considered in the interest of justice?",
+    "relevant_chunk_ids": [
+      "chunk_14"
+    ],
+    "source_preview": "Scott v. Jacobs (trial de novo), 25 Misc.3d 140(A), 2009 WL 4110861, 2009 NY Slip Op 52391(U) (App Term 1st Dept.). Goldweber v. Fox , 3/27/2009 NYLJ 41, (col. 6), 2007-186 (App Term 2d Dept 9th & 10th JD). The District Court was within its discretion in denying appellant/ client\u2019s motion to vacate default judgment. Appellant failed to demonstrate a meritorious defense for failing to appear at the Part 137 arbitration. Appellant also did not commence the trial de novo within 30 days after the aw"
+  },
+  {
+    "query": "2. In a trial de novo from a Part 137 fee arbitration, what is the time limit for filing a complaint in NYC Civil Court, and what consequences can arise if the deadline is missed?",
+    "relevant_chunk_ids": [
+      "chunk_14"
+    ],
+    "source_preview": "Scott v. Jacobs (trial de novo), 25 Misc.3d 140(A), 2009 WL 4110861, 2009 NY Slip Op 52391(U) (App Term 1st Dept.). Goldweber v. Fox , 3/27/2009 NYLJ 41, (col. 6), 2007-186 (App Term 2d Dept 9th & 10th JD). The District Court was within its discretion in denying appellant/ client\u2019s motion to vacate default judgment. Appellant failed to demonstrate a meritorious defense for failing to appear at the Part 137 arbitration. Appellant also did not commence the trial de novo within 30 days after the aw"
+  },
+  {
+    "query": "3. When does a court lack \"single act jurisdiction\" over attorneys pursuant to New York's long-arm statute, and how is this relevant to a breach of contract claim arising from a transaction in the City of New York?",
+    "relevant_chunk_ids": [
+      "chunk_14"
+    ],
+    "source_preview": "Scott v. Jacobs (trial de novo), 25 Misc.3d 140(A), 2009 WL 4110861, 2009 NY Slip Op 52391(U) (App Term 1st Dept.). Goldweber v. Fox , 3/27/2009 NYLJ 41, (col. 6), 2007-186 (App Term 2d Dept 9th & 10th JD). The District Court was within its discretion in denying appellant/ client\u2019s motion to vacate default judgment. Appellant failed to demonstrate a meritorious defense for failing to appear at the Part 137 arbitration. Appellant also did not commence the trial de novo within 30 days after the aw"
+  },
+  {
+    "query": "1. What are the jurisdictional limits for confirming an arbitrator's award in New York, as determined in the case of Sachs v. Zito?",
+    "relevant_chunk_ids": [
+      "chunk_15"
+    ],
+    "source_preview": "Court held that it does not have subject matter jurisdiction over a special proceeding to confirm an arbitrator's award. Sachs v. Zito , 901 N.Y.S.2d 818 (Sup. Ct. Orange County). \"...the Court concludes, and so holds, that Article 75 is inapplicable to the Part 137 fee dispute resolution procedure and the arbitration awards derived therefrom.\" Del Vecchio & Recine, LLP v. Udell , 2012 WL 1899997 (Sup. Ct. Nassau County Trial Order). Client sought to vacate arbitrator\u2019s decision, in favor of att"
+  },
+  {
+    "query": "2. In what circumstances can a client seek to vacate an arbitrator\u2019s decision in favor of an attorney, and under what conditions might the client waive the right to a trial de novo, as outlined in Del Vecchio & Recine, LLP v. Udell?",
+    "relevant_chunk_ids": [
+      "chunk_15"
+    ],
+    "source_preview": "Court held that it does not have subject matter jurisdiction over a special proceeding to confirm an arbitrator's award. Sachs v. Zito , 901 N.Y.S.2d 818 (Sup. Ct. Orange County). \"...the Court concludes, and so holds, that Article 75 is inapplicable to the Part 137 fee dispute resolution procedure and the arbitration awards derived therefrom.\" Del Vecchio & Recine, LLP v. Udell , 2012 WL 1899997 (Sup. Ct. Nassau County Trial Order). Client sought to vacate arbitrator\u2019s decision, in favor of att"
+  },
+  {
+    "query": "3. Under what circumstances is a refusal or failure by an arbitrator to accept evidence considered judicially reviewable, and how does this relate to Maross Const., Inc. v. Central New York Regional Transp. Authority?",
+    "relevant_chunk_ids": [
+      "chunk_15"
+    ],
+    "source_preview": "Court held that it does not have subject matter jurisdiction over a special proceeding to confirm an arbitrator's award. Sachs v. Zito , 901 N.Y.S.2d 818 (Sup. Ct. Orange County). \"...the Court concludes, and so holds, that Article 75 is inapplicable to the Part 137 fee dispute resolution procedure and the arbitration awards derived therefrom.\" Del Vecchio & Recine, LLP v. Udell , 2012 WL 1899997 (Sup. Ct. Nassau County Trial Order). Client sought to vacate arbitrator\u2019s decision, in favor of att"
+  },
+  {
+    "query": "1. What are the specific circumstances under which a client can vacate an arbitration award in New York, as outlined in CPLR 7511 and Part 137 rules?",
+    "relevant_chunk_ids": [
+      "chunk_16"
+    ],
+    "source_preview": "Friedman v. Vuksanovic , 2010 NY Slip Op 30021(U), 2010 WL 147154 (Sup. Ct. New York County). Respondent/ client failed to show a basis under CPLR 7511 to vacate the award. The Part 137 Program run by NYCLA gave Respondent several adjournments. Respondent failed to show on the date of the hearing. The arbitration went forward in his absence as per 137.6(g). Respondent was also offered an interpreter at his request and offered an opportunity to retain counsel.  22 Meyers v. Sorote , Index #: 1093"
+  },
+  {
+    "query": "2. In what instances is an arbitrator not required to provide explicit reasons for their decision in New York, and how does this affect the vacating of awards under Article 75?",
+    "relevant_chunk_ids": [
+      "chunk_16"
+    ],
+    "source_preview": "Friedman v. Vuksanovic , 2010 NY Slip Op 30021(U), 2010 WL 147154 (Sup. Ct. New York County). Respondent/ client failed to show a basis under CPLR 7511 to vacate the award. The Part 137 Program run by NYCLA gave Respondent several adjournments. Respondent failed to show on the date of the hearing. The arbitration went forward in his absence as per 137.6(g). Respondent was also offered an interpreter at his request and offered an opportunity to retain counsel.  22 Meyers v. Sorote , Index #: 1093"
+  },
+  {
+    "query": "3. Under what circumstances can a personal recording device be used during arbitration proceedings in New York, as addressed by NYCLA rules and case law such as 22 Meyers v. Sorote ?",
+    "relevant_chunk_ids": [
+      "chunk_16"
+    ],
+    "source_preview": "Friedman v. Vuksanovic , 2010 NY Slip Op 30021(U), 2010 WL 147154 (Sup. Ct. New York County). Respondent/ client failed to show a basis under CPLR 7511 to vacate the award. The Part 137 Program run by NYCLA gave Respondent several adjournments. Respondent failed to show on the date of the hearing. The arbitration went forward in his absence as per 137.6(g). Respondent was also offered an interpreter at his request and offered an opportunity to retain counsel.  22 Meyers v. Sorote , Index #: 1093"
+  },
+  {
+    "query": "1. What are the legal requirements for a waiver of the right to reject an arbitration award and subsequently commence a trial de novo in court?",
+    "relevant_chunk_ids": [
+      "chunk_17"
+    ],
+    "source_preview": "DeLisi v. The Law Offices of Capetola 2015-1378 S C, NYLJ 1202779114316, at *1 (App. Tm., 2nd, Decided January 5, 2017). Plaintiff client sought de novo review of arbitration award, attorney defendant cross-moved to dismiss the complaint. District Court found that plaintiff did not timely commence the trial de novo within 30 days of the mailing of the award. On appeal, the Appellate Term found the record showed that the arbitration award was mailed on November 6, 2014 and the client commenced th"
+  },
+  {
+    "query": "2. In what circumstances can personal jurisdiction be challenged due to improper service during a client's action for de novo review?",
+    "relevant_chunk_ids": [
+      "chunk_17"
+    ],
+    "source_preview": "DeLisi v. The Law Offices of Capetola 2015-1378 S C, NYLJ 1202779114316, at *1 (App. Tm., 2nd, Decided January 5, 2017). Plaintiff client sought de novo review of arbitration award, attorney defendant cross-moved to dismiss the complaint. District Court found that plaintiff did not timely commence the trial de novo within 30 days of the mailing of the award. On appeal, the Appellate Term found the record showed that the arbitration award was mailed on November 6, 2014 and the client commenced th"
+  },
+  {
+    "query": "3. Can a retainer agreement render an arbitration award final and binding, thus preventing a client from seeking a trial de novo, without containing specific waiver language as prescribed by the Board of Governors?",
+    "relevant_chunk_ids": [
+      "chunk_17"
+    ],
+    "source_preview": "DeLisi v. The Law Offices of Capetola 2015-1378 S C, NYLJ 1202779114316, at *1 (App. Tm., 2nd, Decided January 5, 2017). Plaintiff client sought de novo review of arbitration award, attorney defendant cross-moved to dismiss the complaint. District Court found that plaintiff did not timely commence the trial de novo within 30 days of the mailing of the award. On appeal, the Appellate Term found the record showed that the arbitration award was mailed on November 6, 2014 and the client commenced th"
+  },
+  {
+    "query": "1. What are the key considerations for a court when determining the fairness and reasonableness of an attorney-client fee contract, as outlined in Jacobson v. Sassower and Smitas v. Rickett cases?",
+    "relevant_chunk_ids": [
+      "chunk_18"
+    ],
+    "source_preview": "Jacobson v. Sassower (66 NY2d 991[1985]), the court reasoned that any ambiguity in the language should be construed against the petitioner, who drafted the agreement. (Jacobson: Additionally, and as a matter of public policy, courts pay particular attention to fee arrangements between attorneys and their clients ( Smitas v. Rickett, 102 A.D.2d 928, 929, 477 N.Y.S.2d 752). An attorney has the burden of showing that a fee contract is fair, reasonable, and fully known and understood by the client ("
+  },
+  {
+    "query": "2. In the context of a retainer agreement between parties, what specific language is required to validly waive the right to trial de novo, as explained in LLP v. Altman?",
+    "relevant_chunk_ids": [
+      "chunk_18"
+    ],
+    "source_preview": "Jacobson v. Sassower (66 NY2d 991[1985]), the court reasoned that any ambiguity in the language should be construed against the petitioner, who drafted the agreement. (Jacobson: Additionally, and as a matter of public policy, courts pay particular attention to fee arrangements between attorneys and their clients ( Smitas v. Rickett, 102 A.D.2d 928, 929, 477 N.Y.S.2d 752). An attorney has the burden of showing that a fee contract is fair, reasonable, and fully known and understood by the client ("
+  },
+  {
+    "query": "3. How does the New York court interpret ambiguity in attorney-client fee agreements, as demonstrated in Jacobson v. Sassower and related to the principle of construing ambiguity against the party who drafted the agreement?",
+    "relevant_chunk_ids": [
+      "chunk_18"
+    ],
+    "source_preview": "Jacobson v. Sassower (66 NY2d 991[1985]), the court reasoned that any ambiguity in the language should be construed against the petitioner, who drafted the agreement. (Jacobson: Additionally, and as a matter of public policy, courts pay particular attention to fee arrangements between attorneys and their clients ( Smitas v. Rickett, 102 A.D.2d 928, 929, 477 N.Y.S.2d 752). An attorney has the burden of showing that a fee contract is fair, reasonable, and fully known and understood by the client ("
+  },
+  {
+    "query": "1. What are the specific requirements for waiver of the right to arbitration under Part 137 in New York, as outlined in Pascazi Law Offices, PLLC v Pioneer Natural Pools, Inc.?",
+    "relevant_chunk_ids": [
+      "chunk_19"
+    ],
+    "source_preview": "LLP v. Altman , 2009 NY Slip Op 31294(U), 2009 WL 1725926 (Sup. Ct. New York County). \u201cTherefore, since the subject Retainer Agreement did not conform with the written waiver form prescribed by the Board of Governors, the Court adheres to its prior determination that the parties did not waive their right to de novo review.\u201d Waiver of the right to arbitrate under Part 137 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., 2016 N.Y. App. Div. LEXIS 1152 (N.Y. App. Div. 2d Dep't Feb. 17, 2016) "
+  },
+  {
+    "query": "2. In what circumstances is it permissible for an attorney to commence a legal action for unpaid fees without complying with Part 137 rules, according to the case Doniger & Engstrand, LLP v. Carlomagno?",
+    "relevant_chunk_ids": [
+      "chunk_19"
+    ],
+    "source_preview": "LLP v. Altman , 2009 NY Slip Op 31294(U), 2009 WL 1725926 (Sup. Ct. New York County). \u201cTherefore, since the subject Retainer Agreement did not conform with the written waiver form prescribed by the Board of Governors, the Court adheres to its prior determination that the parties did not waive their right to de novo review.\u201d Waiver of the right to arbitrate under Part 137 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., 2016 N.Y. App. Div. LEXIS 1152 (N.Y. App. Div. 2d Dep't Feb. 17, 2016) "
+  },
+  {
+    "query": "3. How does a court determine if there has been a valid waiver of the right to arbitrate in the context of legal fee disputes, as per the Appellate Term's ruling in Doniger & Engstrand, LLP v. Carlomagno?",
+    "relevant_chunk_ids": [
+      "chunk_19"
+    ],
+    "source_preview": "LLP v. Altman , 2009 NY Slip Op 31294(U), 2009 WL 1725926 (Sup. Ct. New York County). \u201cTherefore, since the subject Retainer Agreement did not conform with the written waiver form prescribed by the Board of Governors, the Court adheres to its prior determination that the parties did not waive their right to de novo review.\u201d Waiver of the right to arbitrate under Part 137 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., 2016 N.Y. App. Div. LEXIS 1152 (N.Y. App. Div. 2d Dep't Feb. 17, 2016) "
+  },
+  {
+    "query": "1. What are the requirements for an arbitration panel's award to be considered valid in a Part 136 arbitration under New York law?",
+    "relevant_chunk_ids": [
+      "chunk_20"
+    ],
+    "source_preview": "C. v. Bethany M. Killeen, (235 A.D.2d 17, 663 N.Y.S.2d 356 (3d Dept. 1997). Court held that an arbitration panel convened pursuant to Part 136 exceeded its authority by making an imperfectly executed award; the award did not contain any rationale for the panel\u2019s decision, and since there was no record of the arbitration hearing, the reviewing court could find no support for the panel\u2019s decision to relieve the client from paying the fee. McNamee, Lochner, C. v. Bethany M. Killeen , (267 A.D.2d 91"
+  },
+  {
+    "query": "2. In a fee dispute, what circumstances may justify vacating an arbitrator's award under the principle that the award must have a \"rational, plausible basis founded upon the recited evidence and testimony presented\"?",
+    "relevant_chunk_ids": [
+      "chunk_20"
+    ],
+    "source_preview": "C. v. Bethany M. Killeen, (235 A.D.2d 17, 663 N.Y.S.2d 356 (3d Dept. 1997). Court held that an arbitration panel convened pursuant to Part 136 exceeded its authority by making an imperfectly executed award; the award did not contain any rationale for the panel\u2019s decision, and since there was no record of the arbitration hearing, the reviewing court could find no support for the panel\u2019s decision to relieve the client from paying the fee. McNamee, Lochner, C. v. Bethany M. Killeen , (267 A.D.2d 91"
+  },
+  {
+    "query": "3. When arbitrating fees between a New York law firm and an out-of-state client, what factors might influence whether claims over fees can be arbitrated under Part 137 or an alternative arbitration agreement?",
+    "relevant_chunk_ids": [
+      "chunk_20"
+    ],
+    "source_preview": "C. v. Bethany M. Killeen, (235 A.D.2d 17, 663 N.Y.S.2d 356 (3d Dept. 1997). Court held that an arbitration panel convened pursuant to Part 136 exceeded its authority by making an imperfectly executed award; the award did not contain any rationale for the panel\u2019s decision, and since there was no record of the arbitration hearing, the reviewing court could find no support for the panel\u2019s decision to relieve the client from paying the fee. McNamee, Lochner, C. v. Bethany M. Killeen , (267 A.D.2d 91"
+  },
+  {
+    "query": "1. What are the specific rules regarding the recovery of attorneys' fees in collection actions based on retainer agreements, given the principles outlined in Ween v. Dow?",
+    "relevant_chunk_ids": [
+      "chunk_21"
+    ],
+    "source_preview": "Ween v. Dow , 2006 NY Slip Op 7227, 2006 N.Y. App. Div. LEXIS 12033 (First Dept. 2006). The Court framed the issue as: Whether a provision in a retainer agreement, which holds the client liable for attorneys\u2019 fees incurred in the collection of fees generated under the retainer agreement, is void as against public policy. The Appellate Division held, \u201cthe very nature of the provision, which permits the recovery of attorneys\u2019 fees by the attorney should he prevail in a collection action, without a"
+  },
+  {
+    "query": "2. Are there limitations on a lawyer's ability to recover legal fees associated with enforcing a charging lien or seeking to recover fees, as discussed in Newkirk v. Fourmen Construction Inc.?",
+    "relevant_chunk_ids": [
+      "chunk_21"
+    ],
+    "source_preview": "Ween v. Dow , 2006 NY Slip Op 7227, 2006 N.Y. App. Div. LEXIS 12033 (First Dept. 2006). The Court framed the issue as: Whether a provision in a retainer agreement, which holds the client liable for attorneys\u2019 fees incurred in the collection of fees generated under the retainer agreement, is void as against public policy. The Appellate Division held, \u201cthe very nature of the provision, which permits the recovery of attorneys\u2019 fees by the attorney should he prevail in a collection action, without a"
+  },
+  {
+    "query": "3. In what circumstances can an attorney move within a matrimonial action to secure a charging lien and bypass the arbitration notice provisions, according to Sprole v. Sprole? Are there any specific conditions related to the disputed fees amount in such cases?",
+    "relevant_chunk_ids": [
+      "chunk_21"
+    ],
+    "source_preview": "Ween v. Dow , 2006 NY Slip Op 7227, 2006 N.Y. App. Div. LEXIS 12033 (First Dept. 2006). The Court framed the issue as: Whether a provision in a retainer agreement, which holds the client liable for attorneys\u2019 fees incurred in the collection of fees generated under the retainer agreement, is void as against public policy. The Appellate Division held, \u201cthe very nature of the provision, which permits the recovery of attorneys\u2019 fees by the attorney should he prevail in a collection action, without a"
+  },
+  {
+    "query": "1. What are the rules regarding an attorney's right to a prompt hearing to fix the amount of a retaining lien, and under what circumstances should this matter be determined by arbitration pursuant to Part 137?",
+    "relevant_chunk_ids": [
+      "chunk_22"
+    ],
+    "source_preview": "Scott v. Jacobs , (Liens) 2008 WL 4761384, 2008 NY Slip Op. 32912(U). Where attorney asserts retaining lien he is entitled to a prompt hearing to fix the amount of the lien. Nothing in Part 137 abrogates the attorney\u2019s right to the retaining lien. However, rather than the court hearing the matter to fix the amount, the issue must be determined by arbitration pursuant to Part 137. Weinstein v. Dvir , 2007 WL 2176273 (N.Y.Sup.), 2007 N.Y. Slip Op. 32211(U) (Trial Order) (Sup. Ct., New York County "
+  },
+  {
+    "query": "2. In cases where the fee has been set by court order, is there an exemption from arbitration as per Part 137 for disputes regarding attorney fees? If so, under what conditions does this exemption apply?",
+    "relevant_chunk_ids": [
+      "chunk_22"
+    ],
+    "source_preview": "Scott v. Jacobs , (Liens) 2008 WL 4761384, 2008 NY Slip Op. 32912(U). Where attorney asserts retaining lien he is entitled to a prompt hearing to fix the amount of the lien. Nothing in Part 137 abrogates the attorney\u2019s right to the retaining lien. However, rather than the court hearing the matter to fix the amount, the issue must be determined by arbitration pursuant to Part 137. Weinstein v. Dvir , 2007 WL 2176273 (N.Y.Sup.), 2007 N.Y. Slip Op. 32211(U) (Trial Order) (Sup. Ct., New York County "
+  },
+  {
+    "query": "3. When does an account stated exist between a party and their attorney according to New York law, and what are the implications for the attorney's fee and lien rights in such cases?",
+    "relevant_chunk_ids": [
+      "chunk_22"
+    ],
+    "source_preview": "Scott v. Jacobs , (Liens) 2008 WL 4761384, 2008 NY Slip Op. 32912(U). Where attorney asserts retaining lien he is entitled to a prompt hearing to fix the amount of the lien. Nothing in Part 137 abrogates the attorney\u2019s right to the retaining lien. However, rather than the court hearing the matter to fix the amount, the issue must be determined by arbitration pursuant to Part 137. Weinstein v. Dvir , 2007 WL 2176273 (N.Y.Sup.), 2007 N.Y. Slip Op. 32211(U) (Trial Order) (Sup. Ct., New York County "
+  },
+  {
+    "query": "1. What are the specific circumstances under which a client can bring a subsequent malpractice claim against an attorney after a fee arbitration, following the rules outlined in Soni v. Pryor and Mahler?",
+    "relevant_chunk_ids": [
+      "chunk_23"
+    ],
+    "source_preview": "Soni v. Pryor, 2013 N.Y. Slip Op. 00324, 2013 WL 239044 (App. Div. Second Dept. 2013). Follows Mahler (below) Part 137 specifically exempts claims involving malpractice, therefore client is not barred from bringing subsequent malpractice claim against attorney. \"...[A]ll of the issues raised in the instant action which are or may be determinate thereof were [not] necessarily decided in the arbitration proceeding... .\" Mahler v. Campagna , 60 A.D.3d 1009, 876 N.Y.S.2d 143, 2009 WL 884782 (N.Y.A.D"
+  },
+  {
+    "query": "2. In what situations may a client be collaterally estopped from bringing a subsequent malpractice action against an attorney who was awarded partial fees in a Part 137 arbitration, as per the court's decision in Mahler?",
+    "relevant_chunk_ids": [
+      "chunk_23"
+    ],
+    "source_preview": "Soni v. Pryor, 2013 N.Y. Slip Op. 00324, 2013 WL 239044 (App. Div. Second Dept. 2013). Follows Mahler (below) Part 137 specifically exempts claims involving malpractice, therefore client is not barred from bringing subsequent malpractice claim against attorney. \"...[A]ll of the issues raised in the instant action which are or may be determinate thereof were [not] necessarily decided in the arbitration proceeding... .\" Mahler v. Campagna , 60 A.D.3d 1009, 876 N.Y.S.2d 143, 2009 WL 884782 (N.Y.A.D"
+  },
+  {
+    "query": "3. How do legal proceedings differ when a client files a complaint with the Grievance Committee and it is referred to a local bar association\u2019s voluntary fee-dispute arbitration program, as seen in Altamore v. Friedman (Part 136)?",
+    "relevant_chunk_ids": [
+      "chunk_23"
+    ],
+    "source_preview": "Soni v. Pryor, 2013 N.Y. Slip Op. 00324, 2013 WL 239044 (App. Div. Second Dept. 2013). Follows Mahler (below) Part 137 specifically exempts claims involving malpractice, therefore client is not barred from bringing subsequent malpractice claim against attorney. \"...[A]ll of the issues raised in the instant action which are or may be determinate thereof were [not] necessarily decided in the arbitration proceeding... .\" Mahler v. Campagna , 60 A.D.3d 1009, 876 N.Y.S.2d 143, 2009 WL 884782 (N.Y.A.D"
+  },
+  {
+    "query": "1. What are the legal principles governing whether a fee dispute between an attorney and client falls under Part 136 or Part 137 in New York?",
+    "relevant_chunk_ids": [
+      "chunk_24"
+    ],
+    "source_preview": "Division upheld the lower court\u2019s determination that client was precluded from pursuing the malpractice action. Wallenstein v. Cohen , 2007 NY Slip Op 9023; 2007 N.Y. App. Div. LEXIS 11874 (App. Div. 2d Dept. 2007) (Part 136) Plaintiff/ Client complained to the Grievance Committee that attorney charged her excessive fees. The GC referred her to fee dispute arbitration under Part 136. The arbitrators determined that the attorney was entitled to his fee. (The court makes note that the plaintiff wa"
+  },
+  {
+    "query": "2. Can a court award pre-award interest on an arbitration award in a case governed by New York's Part 137 rules, and if so, what are the conditions for such an award?",
+    "relevant_chunk_ids": [
+      "chunk_24"
+    ],
+    "source_preview": "Division upheld the lower court\u2019s determination that client was precluded from pursuing the malpractice action. Wallenstein v. Cohen , 2007 NY Slip Op 9023; 2007 N.Y. App. Div. LEXIS 11874 (App. Div. 2d Dept. 2007) (Part 136) Plaintiff/ Client complained to the Grievance Committee that attorney charged her excessive fees. The GC referred her to fee dispute arbitration under Part 136. The arbitrators determined that the attorney was entitled to his fee. (The court makes note that the plaintiff wa"
+  },
+  {
+    "query": "3. How does collateral estoppel apply in cases where an arbitrator awards attorney fees, potentially barring subsequent malpractice actions against the attorney? Are there any exceptions to this rule?",
+    "relevant_chunk_ids": [
+      "chunk_24"
+    ],
+    "source_preview": "Division upheld the lower court\u2019s determination that client was precluded from pursuing the malpractice action. Wallenstein v. Cohen , 2007 NY Slip Op 9023; 2007 N.Y. App. Div. LEXIS 11874 (App. Div. 2d Dept. 2007) (Part 136) Plaintiff/ Client complained to the Grievance Committee that attorney charged her excessive fees. The GC referred her to fee dispute arbitration under Part 136. The arbitrators determined that the attorney was entitled to his fee. (The court makes note that the plaintiff wa"
+  },
+  {
+    "query": "1. What are the guidelines for an arbitrator in determining whether interest should be allowed from the time of breach in a fee dispute case, as established in Meyers v. Sorote?",
+    "relevant_chunk_ids": [
+      "chunk_25"
+    ],
+    "source_preview": "Whether interest should be allowed from time of breach is a question of law and fact for the arbitrator to determine. Meyers v. Sorote , Index #: 109305/2009 (Sup. Ct. New York 2010). Arbitrator\u2019s interpretation of NYCLA rule 1.5 refusing to allow party to use a personal recording device was not a basis to overturn the award. The rule does not appear to contemplate the use of a personal recording device of the kind brought by party. Leaves \"recording\" up to the arbitrator. Matter of Sciandra v P"
+  },
+  {
+    "query": "2. Under what circumstances can an arbitration panel exceed its authority, as illustrated by Attorney Representation 33 Prudential Equity Group, Llc v. Ajamie?",
+    "relevant_chunk_ids": [
+      "chunk_25"
+    ],
+    "source_preview": "Whether interest should be allowed from time of breach is a question of law and fact for the arbitrator to determine. Meyers v. Sorote , Index #: 109305/2009 (Sup. Ct. New York 2010). Arbitrator\u2019s interpretation of NYCLA rule 1.5 refusing to allow party to use a personal recording device was not a basis to overturn the award. The rule does not appear to contemplate the use of a personal recording device of the kind brought by party. Leaves \"recording\" up to the arbitrator. Matter of Sciandra v P"
+  },
+  {
+    "query": "3. In what circumstances does the informality of an arbitration process prevent the application of the rule that prohibits the unauthorized practice of law, as discussed in the case involving a non-New York lawyer participating in a NYSE arbitration in New York?",
+    "relevant_chunk_ids": [
+      "chunk_25"
+    ],
+    "source_preview": "Whether interest should be allowed from time of breach is a question of law and fact for the arbitrator to determine. Meyers v. Sorote , Index #: 109305/2009 (Sup. Ct. New York 2010). Arbitrator\u2019s interpretation of NYCLA rule 1.5 refusing to allow party to use a personal recording device was not a basis to overturn the award. The rule does not appear to contemplate the use of a personal recording device of the kind brought by party. Leaves \"recording\" up to the arbitrator. Matter of Sciandra v P"
+  },
+  {
+    "query": "1. What are the legal principles governing the awarding of attorney fees in a fee arbitration case, as demonstrated in Angel v. Greenhaus?",
+    "relevant_chunk_ids": [
+      "chunk_26"
+    ],
+    "source_preview": "Angel v. Greenhaus , 105349/09 (Sup. Ct. NY County 2009). Client requested fee arbitration claiming she was \u201cbasically destitute\u201d and unable to pay legal fees. Arbitrators awarded defendant /attorney $22,300.82 in legal fees. Court held that plaintiff\u2019s claim that defendant is not entitled to fees because she cannot pay them is not a meritorious defense. Kutner v. Antonacci , 2007 NY Slip Op 27223, 2007 N.Y. Misc. LEXIS 3842, (District Court Nassau County 2007). Court lowered rate of interest fr"
+  },
+  {
+    "query": "2. In what circumstances can a court lower the rate of interest on unpaid legal fees, and what factors may be considered in determining if such a reduction is warranted, as per Kutner v. Antonacci?",
+    "relevant_chunk_ids": [
+      "chunk_26"
+    ],
+    "source_preview": "Angel v. Greenhaus , 105349/09 (Sup. Ct. NY County 2009). Client requested fee arbitration claiming she was \u201cbasically destitute\u201d and unable to pay legal fees. Arbitrators awarded defendant /attorney $22,300.82 in legal fees. Court held that plaintiff\u2019s claim that defendant is not entitled to fees because she cannot pay them is not a meritorious defense. Kutner v. Antonacci , 2007 NY Slip Op 27223, 2007 N.Y. Misc. LEXIS 3842, (District Court Nassau County 2007). Court lowered rate of interest fr"
+  },
+  {
+    "query": "3. When assessing the reasonableness of interest rates on unpaid legal fees, how do courts typically consider pre/post judgment interest accrual rates and other relevant market rates, as shown in Agovino & Asselta, LLP v. Ruben?",
+    "relevant_chunk_ids": [
+      "chunk_26"
+    ],
+    "source_preview": "Angel v. Greenhaus , 105349/09 (Sup. Ct. NY County 2009). Client requested fee arbitration claiming she was \u201cbasically destitute\u201d and unable to pay legal fees. Arbitrators awarded defendant /attorney $22,300.82 in legal fees. Court held that plaintiff\u2019s claim that defendant is not entitled to fees because she cannot pay them is not a meritorious defense. Kutner v. Antonacci , 2007 NY Slip Op 27223, 2007 N.Y. Misc. LEXIS 3842, (District Court Nassau County 2007). Court lowered rate of interest fr"
+  },
+  {
+    "query": "1. What are the key considerations for a lawyer when seeking attorney's fees in a New York arbitration proceeding, as outlined in Altamore v. Friedman?",
+    "relevant_chunk_ids": [
+      "chunk_27"
+    ],
+    "source_preview": "Altamore v. Friedman, ................................................................................................................................................. 31 Angel V. Greenhaus ..................................................................................................................................................... 33 Bainton McCarthy, LLC v. CBC Capital Ventures, Inc ................................................................................................... 11 Bar"
+  },
+  {
+    "query": "2. How does the New York Court interpret conflicts of interest within law firms during fee disputes, as demonstrated in Borah, Goldstein, Altschuler, Schwartz, & Nahins?",
+    "relevant_chunk_ids": [
+      "chunk_27"
+    ],
+    "source_preview": "Altamore v. Friedman, ................................................................................................................................................. 31 Angel V. Greenhaus ..................................................................................................................................................... 33 Bainton McCarthy, LLC v. CBC Capital Ventures, Inc ................................................................................................... 11 Bar"
+  },
+  {
+    "query": "3. In a legal malpractice claim, how can a plaintiff prove that the attorney's breach of duty caused specific damages, and what factors may affect the recovery of fees in such cases, as per Bartning v. Bartning (2 separate questions combined)?",
+    "relevant_chunk_ids": [
+      "chunk_27"
+    ],
+    "source_preview": "Altamore v. Friedman, ................................................................................................................................................. 31 Angel V. Greenhaus ..................................................................................................................................................... 33 Bainton McCarthy, LLC v. CBC Capital Ventures, Inc ................................................................................................... 11 Bar"
+  },
+  {
+    "query": "1. What are the specific rules governing attorney-client fee disputes in New York, as interpreted in the case of Borgus v. Marianetti?",
+    "relevant_chunk_ids": [
+      "chunk_28"
+    ],
+    "source_preview": "Borgus v. Marianetti, ................................................................................................................................................... 17 F-P v. E.L.P .................................................................................................................................................................. 8 Calendar, PC v. Edwards, ............................................................................................................................"
+  },
+  {
+    "query": "2. In cases of arbitration between attorneys and clients regarding fees, what factors have been considered significant in determining whether a client waived their right to contest fees, as outlined in 17 F-P v. E.L.P?",
+    "relevant_chunk_ids": [
+      "chunk_28"
+    ],
+    "source_preview": "Borgus v. Marianetti, ................................................................................................................................................... 17 F-P v. E.L.P .................................................................................................................................................................. 8 Calendar, PC v. Edwards, ............................................................................................................................"
+  },
+  {
+    "query": "3. Under what circumstances can a law firm pursue a malpractice claim against a former client for unpaid legal fees, and how did the court rule on this issue in the case of 8 Calendar, PC v. Edwards?",
+    "relevant_chunk_ids": [
+      "chunk_28"
+    ],
+    "source_preview": "Borgus v. Marianetti, ................................................................................................................................................... 17 F-P v. E.L.P .................................................................................................................................................................. 8 Calendar, PC v. Edwards, ............................................................................................................................"
+  },
+  {
+    "query": "1. What are the key factors considered by arbitrators in determining reasonable attorney fees for legal services provided under New York law? (e.g., DeFilippo v. Gerbino)",
+    "relevant_chunk_ids": [
+      "chunk_29"
+    ],
+    "source_preview": "DeFilippo v. Gerbino .................................................................................................................................................... 17 Del Vecchio & Recine, LLP v. Udell .............................................................................................................................. 21 DeLisi v. The Law Offices of Capetola, ......................................................................................................................... 2"
+  },
+  {
+    "query": "2. Can a client file a fee arbitration claim against their former attorney more than once, and if not, what are the implications for the attorney-client relationship in such cases? (e.g. 17 Del Vecchio & Recine, LLP v. Udell)",
+    "relevant_chunk_ids": [
+      "chunk_29"
+    ],
+    "source_preview": "DeFilippo v. Gerbino .................................................................................................................................................... 17 Del Vecchio & Recine, LLP v. Udell .............................................................................................................................. 21 DeLisi v. The Law Offices of Capetola, ......................................................................................................................... 2"
+  },
+  {
+    "query": "3. Under New York law, when is an attorney entitled to recover unpaid legal fees through a fee arbitration process, and what factors may impact the decision on whether fees are reasonable or excessive? (e.g., DeLisi v. The Law Offices of Capetola & LLP v. Carlomagno)",
+    "relevant_chunk_ids": [
+      "chunk_29"
+    ],
+    "source_preview": "DeFilippo v. Gerbino .................................................................................................................................................... 17 Del Vecchio & Recine, LLP v. Udell .............................................................................................................................. 21 DeLisi v. The Law Offices of Capetola, ......................................................................................................................... 2"
+  },
+  {
+    "query": "1. What are the key legal principles regarding attorney-client fee disputes in New York, as established by the case of Edelman v. Poster?",
+    "relevant_chunk_ids": [
+      "chunk_30"
+    ],
+    "source_preview": "Edelman v. Poster, ......................................................................................................................................................... 6 Edelstein v. Greisman, ................................................................................................................................................. 14 Eiseman Levine Lehrhaupt & Kakoyiannis, PC v. Torino Jewelers, Ltd., ........................................................................ 6 Feder, Go"
+  },
+  {
+    "query": "2. In cases involving attorney-client fee disputes, what factors were considered significant in determining a reasonable fee, as described in the decision of Eiseman Levine Lehrhaupt & Kakoyiannis, PC v. Torino Jewelers, Ltd.?",
+    "relevant_chunk_ids": [
+      "chunk_30"
+    ],
+    "source_preview": "Edelman v. Poster, ......................................................................................................................................................... 6 Edelstein v. Greisman, ................................................................................................................................................. 14 Eiseman Levine Lehrhaupt & Kakoyiannis, PC v. Torino Jewelers, Ltd., ........................................................................ 6 Feder, Go"
+  },
+  {
+    "query": "3. What rules and regulations govern attorney-client fee arbitration proceedings in New York, as outlined in Feder, Goldstein, Errico v. Ronan?",
+    "relevant_chunk_ids": [
+      "chunk_30"
+    ],
+    "source_preview": "Edelman v. Poster, ......................................................................................................................................................... 6 Edelstein v. Greisman, ................................................................................................................................................. 14 Eiseman Levine Lehrhaupt & Kakoyiannis, PC v. Torino Jewelers, Ltd., ........................................................................ 6 Feder, Go"
+  },
+  {
+    "query": "1. What are the key legal principles governing attorney-client fee disputes in New York arbitration cases, as illustrated by the cases: Ferst v. Abraham, Finn v. Anderson, and Finn v. Zinn?",
+    "relevant_chunk_ids": [
+      "chunk_31"
+    ],
+    "source_preview": "Ferst v. Abraham ......................................................................................................................................................... 28 Finn v. Anderson .......................................................................................................................................................... 23 Finn v. Zinn..........................................................................................................................................."
+  },
+  {
+    "query": "2. How has the court interpreted the rules for filing limits in attorney-client fee arbitrations in New York, as demonstrated by the case summaries of Friedman v. Vuksanovic?",
+    "relevant_chunk_ids": [
+      "chunk_31"
+    ],
+    "source_preview": "Ferst v. Abraham ......................................................................................................................................................... 28 Finn v. Anderson .......................................................................................................................................................... 23 Finn v. Zinn..........................................................................................................................................."
+  },
+  {
+    "query": "3. In cases involving attorney-client fee disputes, what factors does the court consider when determining whether a client waived their right to arbitration, as suggested by the cases: Ferst v. Abraham and Finn v. Zinn?",
+    "relevant_chunk_ids": [
+      "chunk_31"
+    ],
+    "source_preview": "Ferst v. Abraham ......................................................................................................................................................... 28 Finn v. Anderson .......................................................................................................................................................... 23 Finn v. Zinn..........................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key factors that a court considers when determining the reasonableness of attorney fees in a fee arbitration case, as illustrated in Gahagan v. Gahagan?",
+    "relevant_chunk_ids": [
+      "chunk_32"
+    ],
+    "source_preview": "Gahagan v. Gahagan .................................................................................................................................................... 13 Gamaliel v Papadopoulos-Vlantes ............................................................................................................................... 16 Gary Friedman, P.C. v O'Neill ....................................................................................................................................... "
+  },
+  {
+    "query": "2. In cases involving a dispute over attorney-client fee agreements, what procedural requirements must be followed to enforce or challenge a retainer agreement during an arbitration proceeding, according to Gary Friedman, P.C. v O'Neill?",
+    "relevant_chunk_ids": [
+      "chunk_32"
+    ],
+    "source_preview": "Gahagan v. Gahagan .................................................................................................................................................... 13 Gamaliel v Papadopoulos-Vlantes ............................................................................................................................... 16 Gary Friedman, P.C. v O'Neill ....................................................................................................................................... "
+  },
+  {
+    "query": "3. How does New York law address the situation where a client seeks to recover attorney fees from a third party under a contingency fee agreement, and what factors are considered in determining whether such recovery is appropriate, as per Goldfarb v. Hoffman?",
+    "relevant_chunk_ids": [
+      "chunk_32"
+    ],
+    "source_preview": "Gahagan v. Gahagan .................................................................................................................................................... 13 Gamaliel v Papadopoulos-Vlantes ............................................................................................................................... 16 Gary Friedman, P.C. v O'Neill ....................................................................................................................................... "
+  },
+  {
+    "query": "1. What are the key factors considered in determining whether a lawyer is entitled to recover contingent fees in New York attorney-client fee arbitration cases, as demonstrated in Gottlieb v. Marusya and Jaffe Ross & Light, LLP v Mann?",
+    "relevant_chunk_ids": [
+      "chunk_33"
+    ],
+    "source_preview": "Gottlieb v. Marusya ....................................................................................................................................................... 6 Herrick v. Lyon ............................................................................................................................................................... 3 Hunt v. Hunt ......................................................................................................................................."
+  },
+  {
+    "query": "2. In what circumstances can a client be prohibited from bringing multiple attorney-client fee disputes against the same attorney, and how was this issue addressed in Herrick v. Lyon and Hunt v. Hunt?",
+    "relevant_chunk_ids": [
+      "chunk_33"
+    ],
+    "source_preview": "Gottlieb v. Marusya ....................................................................................................................................................... 6 Herrick v. Lyon ............................................................................................................................................................... 3 Hunt v. Hunt ......................................................................................................................................."
+  },
+  {
+    "query": "3. What are the legal considerations for determining whether a lawyer's actions warrant the reduction or denial of requested fees, as discussed in Herrick v. Lyon, Jewell v. Iyer, and Hunt v. Hunt?",
+    "relevant_chunk_ids": [
+      "chunk_33"
+    ],
+    "source_preview": "Gottlieb v. Marusya ....................................................................................................................................................... 6 Herrick v. Lyon ............................................................................................................................................................... 3 Hunt v. Hunt ......................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key legal principles governing attorney-client fee disputes, as established in the case of Jones v. Wright?",
+    "relevant_chunk_ids": [
+      "chunk_34"
+    ],
+    "source_preview": "Jones v. Wright, ........................................................................................................................................................... 16 Julien v Machson ........................................................................................................................................................... 4 Julien v. Machson ..................................................................................................................................."
+  },
+  {
+    "query": "2. In a scenario where a lawyer's fee dispute with a client arises during an ongoing representation, what are the potential implications for the attorney-client relationship and the arbitration process, according to Julien v Machson (two cases)?",
+    "relevant_chunk_ids": [
+      "chunk_34"
+    ],
+    "source_preview": "Jones v. Wright, ........................................................................................................................................................... 16 Julien v Machson ........................................................................................................................................................... 4 Julien v. Machson ..................................................................................................................................."
+  },
+  {
+    "query": "3. How does New York law handle situations where a law firm seeks recovery of unpaid fees from a former client, particularly in light of the case Kayden v Kayden?",
+    "relevant_chunk_ids": [
+      "chunk_34"
+    ],
+    "source_preview": "Jones v. Wright, ........................................................................................................................................................... 16 Julien v Machson ........................................................................................................................................................... 4 Julien v. Machson ..................................................................................................................................."
+  },
+  {
+    "query": "1. \"What are the key legal principles governing attorney-client fee disputes in New York, as outlined in cases such as Kutner v. Antonacci and Larrison v. Scarola Reavis & Parent LLP?\"",
+    "relevant_chunk_ids": [
+      "chunk_35"
+    ],
+    "source_preview": "Kutner v. Antonacci ..................................................................................................................................................... 33 Landa v. Dratch, ........................................................................................................................................................... 19 Larrison v. Scarola Reavis & Parent LLP ..............................................................................................................."
+  },
+  {
+    "query": "2. \"In what circumstances can a client challenge an attorney's fees in New York arbitration, according to case law like Lorin v. 501 Second Street LLC and Dorothy Nash and Glasser v. Kenmore Property, LLC?\"",
+    "relevant_chunk_ids": [
+      "chunk_35"
+    ],
+    "source_preview": "Kutner v. Antonacci ..................................................................................................................................................... 33 Landa v. Dratch, ........................................................................................................................................................... 19 Larrison v. Scarola Reavis & Parent LLP ..............................................................................................................."
+  },
+  {
+    "query": "3. \"What are the potential limitations on the number of times a client can initiate fee arbitration against an attorney in New York, as suggested by the cases Landa v. Dratch and the provided case summaries?\"",
+    "relevant_chunk_ids": [
+      "chunk_35"
+    ],
+    "source_preview": "Kutner v. Antonacci ..................................................................................................................................................... 33 Landa v. Dratch, ........................................................................................................................................................... 19 Larrison v. Scarola Reavis & Parent LLP ..............................................................................................................."
+  },
+  {
+    "query": "1. What are the key factors considered in determining attorney-client fee recovery under New York law? (Louissaint v. DePaolo)",
+    "relevant_chunk_ids": [
+      "chunk_36"
+    ],
+    "source_preview": "Louissaint v. DePaolo ..................................................................................................................................................... 2 Macnish-Lenox, LLC, v. Simpson, ................................................................................................................................... 7  35 Mahl v. Rand, .............................................................................................................................................."
+  },
+  {
+    "query": "2. How does New York law handle arbitration rights and proceedings for legal malpractice claims between a lawyer and client? (2 Macnish-Lenox, LLC, v. Simpson)",
+    "relevant_chunk_ids": [
+      "chunk_36"
+    ],
+    "source_preview": "Louissaint v. DePaolo ..................................................................................................................................................... 2 Macnish-Lenox, LLC, v. Simpson, ................................................................................................................................... 7  35 Mahl v. Rand, .............................................................................................................................................."
+  },
+  {
+    "query": "3. In cases involving the termination of an attorney-client relationship, what are the factors considered when determining whether the attorney is entitled to fees incurred up until the termination? (35 Mahl v. Rand)",
+    "relevant_chunk_ids": [
+      "chunk_36"
+    ],
+    "source_preview": "Louissaint v. DePaolo ..................................................................................................................................................... 2 Macnish-Lenox, LLC, v. Simpson, ................................................................................................................................... 7  35 Mahl v. Rand, .............................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key legal principles governing attorney-client fee disputes in New York arbitration, as illustrated in cases such as Gretz v. Goldman and Matter of Jo D. Talbot?",
+    "relevant_chunk_ids": [
+      "chunk_37"
+    ],
+    "source_preview": "Gretz v. Goldman .......................................................................................................................................... 4 Matter of Jo D. Talbot .................................................................................................................................................... 9 Matter of Raymond E. Kerno ....................................................................................................................................... 23 Ma"
+  },
+  {
+    "query": "2. How does New York law determine the appropriate filing limit for attorney-client fee arbitrations, considering cases like Matter of Raymond E. Kerno and Matter of Sciandra v Palmer?",
+    "relevant_chunk_ids": [
+      "chunk_37"
+    ],
+    "source_preview": "Gretz v. Goldman .......................................................................................................................................... 4 Matter of Jo D. Talbot .................................................................................................................................................... 9 Matter of Raymond E. Kerno ....................................................................................................................................... 23 Ma"
+  },
+  {
+    "query": "3. In what circumstances might a client's obligation to pay attorneys' fees be waived in New York, as suggested by the cases MBNA America Bank, A. v. Sally Coe and McNamee, Lochner, C. v. Bethany M. Killeen?",
+    "relevant_chunk_ids": [
+      "chunk_37"
+    ],
+    "source_preview": "Gretz v. Goldman .......................................................................................................................................... 4 Matter of Jo D. Talbot .................................................................................................................................................... 9 Matter of Raymond E. Kerno ....................................................................................................................................... 23 Ma"
+  },
+  {
+    "query": "1. What are the key legal principles regarding attorney-client fee disputes in arbitration proceedings, as outlined in Meyers v. Sorote and LLP v. Altman?",
+    "relevant_chunk_ids": [
+      "chunk_38"
+    ],
+    "source_preview": "Meyers v. Sorote, ................................................................................................................................................... 22, 32 MINTZ & GOLD LLP, v. DAIBES, ................................................................................................................................... 10 Moraitis v Moraitis ..............................................................................................................................................."
+  },
+  {
+    "query": "2. In cases involving lawyer disqualification due to conflicts of interest, what factors are typically considered by courts, as shown in Moraitis v Moraitis and Ostrolenk v. Christopher?",
+    "relevant_chunk_ids": [
+      "chunk_38"
+    ],
+    "source_preview": "Meyers v. Sorote, ................................................................................................................................................... 22, 32 MINTZ & GOLD LLP, v. DAIBES, ................................................................................................................................... 10 Moraitis v Moraitis ..............................................................................................................................................."
+  },
+  {
+    "query": "3. Under what circumstances can a law firm seek recovery of unpaid attorney fees against a client, and what limitations may apply, based on the cases Newkirk v. Fourmen Construction Inc. and 22, 32 MINTZ & GOLD LLP, v. DAIBES?",
+    "relevant_chunk_ids": [
+      "chunk_38"
+    ],
+    "source_preview": "Meyers v. Sorote, ................................................................................................................................................... 22, 32 MINTZ & GOLD LLP, v. DAIBES, ................................................................................................................................... 10 Moraitis v Moraitis ..............................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key factors that a court considers when determining whether an attorney is entitled to recover fees in a contingency fee agreement, as outlined in Paikin v. Tsirelman?",
+    "relevant_chunk_ids": [
+      "chunk_39"
+    ],
+    "source_preview": "Paikin v. Tsirelman ..................................................................................................................................................... 3, 5 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., ................................................................................................. 26 Pickard v. Tarnow, ......................................................................................................................................................"
+  },
+  {
+    "query": "2. In cases involving disputes over attorney-client fee arrangements, what limitations may exist with regard to the number of times a client can seek arbitration, as suggested by Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc.?",
+    "relevant_chunk_ids": [
+      "chunk_39"
+    ],
+    "source_preview": "Paikin v. Tsirelman ..................................................................................................................................................... 3, 5 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., ................................................................................................. 26 Pickard v. Tarnow, ......................................................................................................................................................"
+  },
+  {
+    "query": "3. How does New York law address the issue of malpractice claims against attorneys who fail to properly manage their clients' funds, as discussed in Potruch v Berson and Pickard v. Tarnow?",
+    "relevant_chunk_ids": [
+      "chunk_39"
+    ],
+    "source_preview": "Paikin v. Tsirelman ..................................................................................................................................................... 3, 5 Pascazi Law Offs., PLLC v Pioneer Natural Pools, Inc., ................................................................................................. 26 Pickard v. Tarnow, ......................................................................................................................................................"
+  },
+  {
+    "query": "1. What are the legal principles governing the recovery of attorney fees in New York, as established in Pruzan v. Levine and Scanomat A/S v. Bois, Schiller & Flexner LLP?",
+    "relevant_chunk_ids": [
+      "chunk_40"
+    ],
+    "source_preview": "Pruzan v. Levine, .......................................................................................................................................................... 18 Riley v. Coughtry, ......................................................................................................................................................... 14 Rotker v. Rotker ..................................................................................................................................."
+  },
+  {
+    "query": "2. How does the arbitration process for determining attorney-client fee disputes function in New York, as outlined in Riley v. Coughtry and Sachs v. Zito?",
+    "relevant_chunk_ids": [
+      "chunk_40"
+    ],
+    "source_preview": "Pruzan v. Levine, .......................................................................................................................................................... 18 Riley v. Coughtry, ......................................................................................................................................................... 14 Rotker v. Rotker ..................................................................................................................................."
+  },
+  {
+    "query": "3. What are the implications of joint representation on attorney-client fee agreements, as illustrated in Rotker v. Rotker?",
+    "relevant_chunk_ids": [
+      "chunk_40"
+    ],
+    "source_preview": "Pruzan v. Levine, .......................................................................................................................................................... 18 Riley v. Coughtry, ......................................................................................................................................................... 14 Rotker v. Rotker ..................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key factors that a court considers when determining the reasonableness of attorney's fees in arbitration as per Scordio v. Scordio?",
+    "relevant_chunk_ids": [
+      "chunk_41"
+    ],
+    "source_preview": "Scordio v. Scordio .......................................................................................................................................................... 3 Scott v. Jacobs (trial de novo), ..................................................................................................................................... 20 Scott v. Jacobs, (Liens) ................................................................................................................................."
+  },
+  {
+    "query": "2. Can a party request a trial de novo after an attorney-client fee arbitration in New York, and if so, under what circumstances, according to Scott v. Jacobs (trial de novo)?",
+    "relevant_chunk_ids": [
+      "chunk_41"
+    ],
+    "source_preview": "Scordio v. Scordio .......................................................................................................................................................... 3 Scott v. Jacobs (trial de novo), ..................................................................................................................................... 20 Scott v. Jacobs, (Liens) ................................................................................................................................."
+  },
+  {
+    "query": "3. How does New York law handle liens on settlement funds for unpaid attorney's fees, as discussed in Scott v. Jacobs (Liens)?",
+    "relevant_chunk_ids": [
+      "chunk_41"
+    ],
+    "source_preview": "Scordio v. Scordio .......................................................................................................................................................... 3 Scott v. Jacobs (trial de novo), ..................................................................................................................................... 20 Scott v. Jacobs, (Liens) ................................................................................................................................."
+  },
+  {
+    "query": "1. What are the key factors that a court considers when determining whether a lawyer's fee is reasonable in an attorney-client fee arbitration case, as per the rulings in C. v. Ganea and Spina v. Michael J. DeFilippo PC?",
+    "relevant_chunk_ids": [
+      "chunk_42"
+    ],
+    "source_preview": "C. v. Ganea, ................................................................................................................................... 15 Sieratzki v. Sei Global, .................................................................................................................................................... 7 Soni v. Pryor ................................................................................................................................................................. "
+  },
+  {
+    "query": "2. In what circumstances can a client seek to recover attorney's fees from their former attorney, and what are the potential limitations on such recovery, based on the decisions in C. v. Ganea, 15 Sieratzki v. Sei Global, and Soni v. Pryor?",
+    "relevant_chunk_ids": [
+      "chunk_42"
+    ],
+    "source_preview": "C. v. Ganea, ................................................................................................................................... 15 Sieratzki v. Sei Global, .................................................................................................................................................... 7 Soni v. Pryor ................................................................................................................................................................. "
+  },
+  {
+    "query": "3. What are the applicable rules for filing a motion to vacate or modify an attorney-client fee arbitration award, as determined by the courts in 7 Sieratzki v. Sei Global and 23 Spina v. Michael J. DeFilippo PC?",
+    "relevant_chunk_ids": [
+      "chunk_42"
+    ],
+    "source_preview": "C. v. Ganea, ................................................................................................................................... 15 Sieratzki v. Sei Global, .................................................................................................................................................... 7 Soni v. Pryor ................................................................................................................................................................. "
+  },
+  {
+    "query": "1. \"What are the key legal principles regarding attorney-client fee disputes, as established in Stodolski v. Wisselman and Tucker v. Weich?\"",
+    "relevant_chunk_ids": [
+      "chunk_43"
+    ],
+    "source_preview": "Stodolski v. Wisselman, ............................................................................................................................................... 17 Williams v. Jacqueline Jackson .............................................................................................................. 8 Tomei v Schwartz ........................................................................................................................................................... 2 Tray v. Th"
+  },
+  {
+    "query": "2. \"Can a client pursue arbitration to resolve an attorney-client fee dispute, and what are the potential limitations, as demonstrated in 17 Williams v. Jacqueline Jackson and Tomei v Schwartz?\"",
+    "relevant_chunk_ids": [
+      "chunk_43"
+    ],
+    "source_preview": "Stodolski v. Wisselman, ............................................................................................................................................... 17 Williams v. Jacqueline Jackson .............................................................................................................. 8 Tomei v Schwartz ........................................................................................................................................................... 2 Tray v. Th"
+  },
+  {
+    "query": "3. \"What factors influence the recovery of attorney's fees by attorneys in cases of malpractice, as shown in Tray v. Thaler and Tucker v. Weich?\"",
+    "relevant_chunk_ids": [
+      "chunk_43"
+    ],
+    "source_preview": "Stodolski v. Wisselman, ............................................................................................................................................... 17 Williams v. Jacqueline Jackson .............................................................................................................. 8 Tomei v Schwartz ........................................................................................................................................................... 2 Tray v. Th"
+  },
+  {
+    "query": "1. What are the key considerations for a lawyer to recover attorney fees in a New York arbitration case, as determined by Verkowitz v. Torres?",
+    "relevant_chunk_ids": [
+      "chunk_44"
+    ],
+    "source_preview": "Verkowitz v. Torres ...................................................................................................................................................... 12 PC v. Finkelstein .................................................................................................................................... 12 Wallenstein v. Cohen, .................................................................................................................................................. 31 "
+  },
+  {
+    "query": "2. In a New York attorney-client fee arbitration, what factors might influence the decision on whether a client's delay in filing a claim affects the lawyer's right to fees, based on 12 PC v. Finkelstein?",
+    "relevant_chunk_ids": [
+      "chunk_44"
+    ],
+    "source_preview": "Verkowitz v. Torres ...................................................................................................................................................... 12 PC v. Finkelstein .................................................................................................................................... 12 Wallenstein v. Cohen, .................................................................................................................................................. 31 "
+  },
+  {
+    "query": "3. How does the court determine the reasonableness of legal fees in a New York attorney-client fee arbitration, as outlined in Wallenstein v. Cohen and Ween v. Dow?",
+    "relevant_chunk_ids": [
+      "chunk_44"
+    ],
+    "source_preview": "Verkowitz v. Torres ...................................................................................................................................................... 12 PC v. Finkelstein .................................................................................................................................... 12 Wallenstein v. Cohen, .................................................................................................................................................. 31 "
+  },
+  {
+    "query": "1. What are the key legal principles governing attorney-client fee disputes in New York, as established by the case Weinstein v. Dvir?",
+    "relevant_chunk_ids": [
+      "chunk_45"
+    ],
+    "source_preview": "Weinstein v. Dvir ......................................................................................................................................................... 29 Wenig Saltiel, LLP v. Secord ......................................................................................................................................... 10 Wexler & Burkhart, LLP v. Grant ..........................................................................................................................."
+  },
+  {
+    "query": "2. In what circumstances can a law firm in New York seek arbitration for unpaid attorney fees, and what are the relevant procedural requirements, according to the case 29 Wenig Saltiel, LLP v. Secord?",
+    "relevant_chunk_ids": [
+      "chunk_45"
+    ],
+    "source_preview": "Weinstein v. Dvir ......................................................................................................................................................... 29 Wenig Saltiel, LLP v. Secord ......................................................................................................................................... 10 Wexler & Burkhart, LLP v. Grant ..........................................................................................................................."
+  },
+  {
+    "query": "3. How does New York law address limitations on filing multiple actions for attorney fee disputes, as illustrated in cases like Ziskin v. Bi-County Electric Corp., and what are the potential consequences of exceeding such limits?",
+    "relevant_chunk_ids": [
+      "chunk_45"
+    ],
+    "source_preview": "Weinstein v. Dvir ......................................................................................................................................................... 29 Wenig Saltiel, LLP v. Secord ......................................................................................................................................... 10 Wexler & Burkhart, LLP v. Grant ..........................................................................................................................."
+  }
+]
