@@ -108,6 +108,7 @@ dmypy.json
 # IDEs
 .vscode/
 .idea/
+.devcontainer/
 *.swp
 *.swo
 *~
