@@ -11,8 +11,15 @@ from dotenv import load_dotenv
 import nltk
 
 # Ensure necessary tokenizer resources are downloaded
-# nltk.download('punkt')
-# nltk.download('punkt_tab')
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt_tab')
 
 # Load environment variables from .env if present
 load_dotenv()
