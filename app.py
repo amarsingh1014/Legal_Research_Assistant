@@ -7,6 +7,7 @@ import streamlit as st
 from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 from dotenv import load_dotenv
+from langsmith import traceable
 
 import nltk
 
@@ -23,6 +24,11 @@ except LookupError:
 
 # Load environment variables from .env if present
 load_dotenv()
+
+# Configure LangSmith Traceability
+if os.getenv("LANGCHAIN_API_KEY"):
+    os.environ["LANGCHAIN_TRACING_V2"] = "true"
+    os.environ["LANGCHAIN_PROJECT"] = os.getenv("LANGCHAIN_PROJECT", "Legal Research Assistant")
 
 # Prefer the exact LLM setup used in the notebook: langchain_groq.ChatGroq
 try:
@@ -60,6 +66,7 @@ def build_bm25(corpus_texts: List[str]):
     return bm25, tokenized
 
 
+@traceable(run_type="chain", name="RAG Answer")
 def llm_chain_answer(question: str, retrieved_texts: List[str]) -> str:
     """Compose a short prompt and call the LLM configured in the notebook (ChatGroq) if available.
 
@@ -103,6 +110,7 @@ Answer:
     return answer
 
 
+@traceable(run_type="retriever", name="BM25 Retrieval")
 def retrieve_bm25(bm25, tokenized_corpus, docs_texts, query: str, top_n: int = 5):
     q_tok = word_tokenize(query.lower())
     scores = bm25.get_scores(q_tok)
@@ -127,6 +135,7 @@ def main():
     st.sidebar.write({
         "GROQ_CONFIGURED": bool(os.getenv("GROQ_API_KEY") or os.getenv("GROQ_KEY")),
         "GROQ_AVAILABLE": GROQ_AVAILABLE,
+        "LANGSMITH_TRACING": bool(os.getenv("LANGCHAIN_TRACING_V2") == "true"),
     })
 
     chunks = load_chunks()
